@@ -22,7 +22,7 @@ You’re probably already familiar with a lot of different types of files, for e
 
 To let the computer know we want to create an HTML file, we need to append the filename with the **.html** extension, as we have done when creating the **index.html** file.
 
-It is worth noting that we named our HTML file **index**. We should always name the HTML file that will contain the homepage of our website **index.html**. This is because web servers will by default look for an index.html** page when users land on our websites – and not having one will cause big problems.
+It is worth noting that we named our HTML file **index**. We should always name the HTML file that will contain the homepage of our website **index.html**. This is because web servers will by default look for an **index.html** page when users land on our websites – and not having one will cause big problems.
 
 ## The DOCTYPE
 
